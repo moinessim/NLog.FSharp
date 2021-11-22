@@ -6,7 +6,7 @@
 *.user
 *.sln.docstates
 
-NLog.FSharp/*.nupkg
+*.nupkg
 
 # Build results
 
